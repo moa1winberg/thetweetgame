@@ -189,7 +189,7 @@ var tweets = [
 	tweet:  "Just an FYI: If you removed all veins, arteries, & capillaries from your body and laid them end to end, you will die.",
 	
 	imgL: "img/Depp.jpg",
-	imgR: "img/neilDeGrasse.jpg",
+	imgR: "img/neilDeGrasse .jpg",
 	option1: "Johnny Depp",
 	option2: "Astrophysicist",
 
