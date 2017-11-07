@@ -76,7 +76,7 @@ var tweets = [
 
 	tweet: "26,000 unreported sexual assults in the military-only 238 convictions. What did these geniuses expect when they put men & women together?",
 	imgL: "img/Donald.jpg",
-	imgR: "img/bieber.jpg",
+	imgR: "img/arnold.jpg",
 	option1:  "Donald Trump",
 	option2:  "Arnold Schwarzenegger",
 
@@ -107,7 +107,7 @@ var tweets = [
 
 	tweet: "Pandora.. Whoever you are!! thank you!! I get tweets about you playing my music all the time!!",
 	imgL: "img/pratt.jpg",
-	imgR: "img/Gibbs.jpg",
+	imgR: "img/gibson.jpg",
 	option1:  "Chris Pratt",
 	option2:  "Tyrese Gibson",
 
