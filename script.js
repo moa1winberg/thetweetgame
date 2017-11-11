@@ -119,7 +119,7 @@ var tweets = [
 	imgL: "img/reynolds.jpg",
 	imgR: "img/kimkardashian.jpg",
 	option1:  "Ryan Renolds",
-	option2:  "kim Kardashian",
+	option2:  "Kim Kardashian",
 
 	correct:  "Kim Kardashian"
 },
@@ -129,7 +129,7 @@ var tweets = [
 	imgL: "img/Minaj.jpg",
 	imgR: "img/kimkardashian.jpg",
 	option1:  "Nikki Minaj",
-	option2:  "kim Kardashian",
+	option2:  "Kim Kardashian",
 
 	correct:  "Kim Kardashian"
 },
@@ -139,7 +139,7 @@ var tweets = [
 	imgL: "img/AnnaKendrick.jpg",
 	imgR: "img/kimkardashian.jpg",
 	option1:  "Anna Kendrick",
-	option2:  "kim Kardashian",
+	option2:  "Kim Kardashian",
 
 	correct:  "Kim Kardashian"
 },
