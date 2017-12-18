@@ -230,7 +230,10 @@
     font-size: 50px;
     font-weight: 700;
 }
-
+#header2 
+{
+    font-size: 36px;  
+}
 #tweet {
     font-size: 1.5em;
     max-width: 100%;
