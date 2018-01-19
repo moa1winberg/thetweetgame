@@ -1,3 +1,19 @@
+//Preloads images start
+<!--//--><![CDATA[//><!--
+			var images = new Array()
+			function preload() {
+				for (i = 0; i < preload.arguments.length; i++) {
+					images[i] = new Image()
+					images[i].src = preload.arguments[i]
+				}
+			}
+			preload(
+				"https://moa1winberg.github.io/thetweetgame/img/reynolds.jpg",
+				"https://moa1winberg.github.io/thetweetgame/img/Shaq.jpg",
+				"http://domain.tld/gallery/image-003.jpg"
+			)
+		//--><!]]>
+//preload images end
 /*
 tweets[2].
 
