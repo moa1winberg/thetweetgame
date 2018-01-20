@@ -429,7 +429,8 @@ function nextBut(){
 	
 	}
  
-};
+}
+
 
 
 
