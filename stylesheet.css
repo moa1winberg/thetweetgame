@@ -14,16 +14,16 @@ body{
 }
 
 .wrapper-index {
-    min-width: 100%;
-    min-height: 100vh;
+    width: 100%;
+    height: 100vh;
     margin: 0 auto;
     padding: 0;
     border: 0%;
     outline: 0%;
     display: flex;
-    align-content: center;
-    align-items: center;
-    justify-content: center;
+    align-content: cen;
+    align-items: cen;
+    justify-content: cent;
     z-index: 1;
     font-family: Nunito;
 } 
