@@ -368,8 +368,8 @@ function nextBut(){
   document.getElementById("tweetScore").innerHTML = s +" / 50";
 		  document.getElementById('logo').style.display = "none";
 		  document.getElementById('score').style.display = "none";
-			document.getElementById("imgleft").style.opacity = .5;
-		document.getElementById("imgright").style.opacity = .5;
+			document.getElementById("imgleft").style.opacity = .65;
+		document.getElementById("imgright").style.opacity = .65;
 		  
 
 	
