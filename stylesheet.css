@@ -65,7 +65,7 @@ body{
     height: 100%;
     width: 50%;
     object-fit: contain;
-    background-color: grey;
+    background-color: #05649c;
 }
 
 #imgleft {
@@ -81,7 +81,7 @@ body{
     height: 100%;
     width: 50%;
     object-fit: cover;
-    background-color: lightgrey;
+    background-color: #05649c;
 }
 
 #imgright{
