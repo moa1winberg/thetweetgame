@@ -9,6 +9,10 @@
 	z-index: 9999;
 	background: url(img/Spinner.gif) center no-repeat #fff;
 }
+body{
+	background-color: #05649c;
+}
+
 .wrapper-index {
     min-width: 100%;
     min-height: 100vh;
