@@ -186,15 +186,14 @@ body{
     width: 100px;
     height: 100%;
     text-align: center;
+	
 }
 
 #share {
     color: white;
     width: 60%;
     height: 60%;
-	position: fixed;
-	left: 10vh;
-	right 50 vh;
+
 }
 
 .fb-like {
@@ -202,8 +201,10 @@ body{
     height: 15px;
     z-index: 2000;
     background-color: transparent;
-    margin-bottom: 10%;
-    position: absolute;
+    margin-bottom: 10vh;
+	right 50 vh;
+	left: 10vh;
+    position: fixed;
 }
 
 .score {
