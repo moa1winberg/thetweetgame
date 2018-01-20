@@ -19,9 +19,10 @@ body{
 
 .wrapper-index {
     width: 100%;
-    min-height: 100vh;
+    min-height: 100%;
     margin: 0;
     padding: 0;
+	border: none; 
 	border-style: none;
 	bottom: -5px;
     outline: 0%;
