@@ -292,7 +292,7 @@ function pressLeftBut(){
 
 
 		if (tweets[j].option1 == tweets[j].correct){
-			document.getElementById("bl").style.background = 'rgba(23, 193, 71, 0.5)'
+			document.getElementById("bl").style.background = 'rgba(23, 193, 71, 0.7)'
 			document.getElementById('bn').style.display = "block";
 				s= s+5;
 			document.getElementById("score").innerHTML = "Score: " + s;
@@ -301,7 +301,7 @@ function pressLeftBut(){
 
 		}
 		else{
-			document.getElementById("bl").style.background = 'rgba(238, 75, 40, 0.5)'
+			document.getElementById("bl").style.background = 'rgba(238, 75, 40, 0.7)'
 			document.getElementById('bn').style.display = "block";
 			document.getElementById('br').style.display = "none";
 			
@@ -314,7 +314,7 @@ function pressRightBut(){
 	
 		if (tweets[j].option2 == tweets[j].correct){
 			console.log("Hi");
-			document.getElementById("br").style.background = 'rgba(23, 193, 71, 0.5)'
+			document.getElementById("br").style.background = 'rgba(23, 193, 71, 0.7)'
 				document.getElementById('bl').style.display = "none";
 			document.getElementById('bn').style.display = "block";
 					s= s+5;
@@ -322,7 +322,7 @@ function pressRightBut(){
 
 		}
 		else{
-			document.getElementById("br").style.background = 'rgba(238, 75, 40, 0.5)'
+			document.getElementById("br").style.background = 'rgba(238, 75, 40, 0.7)'
 			document.getElementById('bn').style.display = "block";
 				document.getElementById('bl').style.display = "none";
 
