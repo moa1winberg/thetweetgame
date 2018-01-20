@@ -192,6 +192,9 @@ body{
     color: white;
     width: 60%;
     height: 60%;
+	position: fixed;
+	left: 10vh;
+	right 50 vh;
 }
 
 .fb-like {
