@@ -293,7 +293,7 @@ function pressLeftBut(){
 
 		if (tweets[j].option1 == tweets[j].correct){
 			document.getElementById("bl").style.background = 'green'
-			document.getElementById("bl").style.opacity = .5;
+			document.getElementById("bl").style.background.opacity = .5;
 			document.getElementById('bn').style.display = "block";
 				s= s+5;
 			document.getElementById("score").innerHTML = "Score: " + s;
@@ -303,7 +303,7 @@ function pressLeftBut(){
 		}
 		else{
 			document.getElementById("bl").style.background = 'red'
-			document.getElementById("bl").style.opacity = .5;
+			document.getElementById("bl").style.background.opacity = .5;
 			document.getElementById('bn').style.display = "block";
 			document.getElementById('br').style.display = "none";
 			
@@ -317,7 +317,7 @@ function pressRightBut(){
 		if (tweets[j].option2 == tweets[j].correct){
 			console.log("Hi");
 			document.getElementById("br").style.background = 'green'
-			document.getElementById("br").style.opacity = .5;
+			document.getElementById("br").style.background.opacity = .5;
 				document.getElementById('bl').style.display = "none";
 			document.getElementById('bn').style.display = "block";
 					s= s+5;
@@ -326,7 +326,7 @@ function pressRightBut(){
 		}
 		else{
 			document.getElementById("br").style.background = 'red'
-			document.getElementById("br").style.opacity = .5;
+			document.getElementById("br").style.background.opacity = .5;
 			document.getElementById('bn').style.display = "block";
 				document.getElementById('bl').style.display = "none";
 
