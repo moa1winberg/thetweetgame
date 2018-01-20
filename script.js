@@ -368,7 +368,7 @@ function nextBut(){
   document.getElementById("tweetScore").innerHTML = s +" / 50";
 		  document.getElementById('logo').style.display = "none";
 		  document.getElementById('score').style.display = "none";
-		  document.getElementById('filterbg').style.display = "none";
+		  document.getElementById('filterbg').style.display = "block";
 
 	
 	}
