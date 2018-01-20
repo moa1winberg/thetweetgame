@@ -422,17 +422,8 @@ function nextBut(){
 	}
  
 }
+$(window).load(function() {
+		// Animate loader off screen
+		$(".se-pre-con").fadeOut("slow");;
+	});
 
-
-/*function randomQuestion(){
-	while (cancelQ.includes(j)){
-		var j = Math.floor((Math.random() * 9) + 1);
-	}
-	cancelQ.push(j);
-}
-
-
-
-var j = Math.floor((Math.random() * 9) + 1);
-var cancelQ = [j];
-*/
