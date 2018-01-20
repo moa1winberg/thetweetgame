@@ -422,8 +422,14 @@ function nextBut(){
 	}
  
 }
-$(window).load(function() {
-		// Animate loader off screen
-		$(".se-pre-con").fadeOut("slow");;
-	});
+
+
+jQuery(document).ready(function($) {  
+
+// site preloader -- also uncomment the div in the header and the css style for #preloader
+$(window).load(function(){
+	$('.se-pre-con').fadeOut('slow',function(){$(this).remove();});
+});
+
+});
 
