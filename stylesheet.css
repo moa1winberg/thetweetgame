@@ -12,14 +12,6 @@
 body{
 	background-color: #05649c;
 }
-#filterbg{
-	width: 100vh;
-	height: 100vh;
-	background-color: #05649c;
-	position: relative; 
-	display: flex;
-	
-}
 
 .wrapper-index {
     min-width: 100%;
