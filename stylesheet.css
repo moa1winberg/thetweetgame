@@ -21,7 +21,7 @@ body{
     min-height: 100%;
     margin: 0;
     padding: 0;
-	
+	border-bottom: 5px solid red;
     outline: 0%;
     display: flex;
     align-content: cen;
