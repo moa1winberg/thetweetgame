@@ -13,7 +13,8 @@ body{
 	background-color: #05649c;
 	margin: 0;
 	padding: 0;
-	
+	border: none; 
+	border-style: none;
 	
 }
 
