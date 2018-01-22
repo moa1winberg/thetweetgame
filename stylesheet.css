@@ -48,6 +48,17 @@ body{
     position: fixed;
     overflow: hidden;
 }
+  #imgone {
+    min-width: 50vw;
+    min-height: 50vh;
+}
+
+.image-two {
+     min-width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: row;
+}
 
 .image-one {
   min-width: 100vw;
