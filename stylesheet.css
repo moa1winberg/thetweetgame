@@ -76,9 +76,9 @@ body{
 }
 
 #imgleft {
-   min-width: 50vw;
+   min-width: 100vw;
     min-height: 50vh;
-    max-height: 50vh;
+    max-height: 100vh;
     min-width: 50vw;
     overflow: hidden;
     object-fit: cover;
